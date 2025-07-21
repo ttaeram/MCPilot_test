@@ -24,4 +24,6 @@ def hello_func():
             print("No")
             flag = 1
     hello()
+    hello()
+    
 hello_func()
