@@ -9,4 +9,6 @@ def hello_func():
     
     print('나는 코드 리뷰 작성을 도와주는 봇을 만들고 있다.')
 
+    print("코드 리뷰 슬랙 알림 기능 제작중이다.")
+
 hello_func()
