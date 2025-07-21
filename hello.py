@@ -6,5 +6,7 @@ def hello_func():
 
     if i == 9:
         print(i)
+    
+    print('나는 코드 리뷰 작성을 도와주는 봇을 만들고 있다.')
 
 hello_func()
