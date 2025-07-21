@@ -11,4 +11,6 @@ def hello_func():
 
     print("코드 리뷰 슬랙 알림 기능 제작중이다.")
 
+    print("Slack Alert Testing")
+
 hello_func()
