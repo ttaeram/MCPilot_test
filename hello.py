@@ -13,4 +13,6 @@ def hello_func():
 
     print("Slack Alert Testing")
 
+    print("Github review template is wrong")
+
 hello_func()
