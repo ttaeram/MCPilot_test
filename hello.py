@@ -14,5 +14,14 @@ def hello_func():
     print("Slack Alert Testing")
 
     print("Github review template is wrong")
+    flag = 0
 
+    def hello():
+        if flag:
+            print("Hey!")
+        
+        else:
+            print("No")
+            flag = 1
+    hello()
 hello_func()
