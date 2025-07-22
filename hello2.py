@@ -12,4 +12,7 @@ def hello2():
     
     def last_test():
         return
+    
+    last_test()
+    
 hello2()
