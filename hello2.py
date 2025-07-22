@@ -7,4 +7,6 @@ def hello2():
     if 1:
         print('Bye')
         print('Bello')
+    else:
+        print('You are wrong')
 hello2()
