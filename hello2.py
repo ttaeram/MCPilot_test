@@ -6,4 +6,5 @@ def hello2():
 
     if 1:
         print('Bye')
+        print('Bello')
 hello2()
