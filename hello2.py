@@ -14,5 +14,5 @@ def hello2():
         return
     
     last_test()
-    
+    print('hahahahahaha')
 hello2()
