@@ -3,4 +3,7 @@ def hello2():
     for i in range(5):
         print(i)
     print('test')
+
+    if 1:
+        print('Bye')
 hello2()
