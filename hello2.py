@@ -9,4 +9,7 @@ def hello2():
         print('Bello')
     else:
         print('You are wrong')
+    
+    def last_test():
+        return
 hello2()
