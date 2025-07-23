@@ -16,4 +16,5 @@ def hello2():
     last_test()
     print('hahahahahaha')
     print("well done")
+    print("server is working")
 hello2()
