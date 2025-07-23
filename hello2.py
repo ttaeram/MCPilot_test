@@ -15,4 +15,5 @@ def hello2():
     
     last_test()
     print('hahahahahaha')
+    print("well done")
 hello2()
