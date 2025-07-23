@@ -17,4 +17,5 @@ def hello2():
     print('hahahahahaha')
     print("well done")
     print("server is working")
+    print("commit action")
 hello2()
