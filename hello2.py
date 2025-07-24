@@ -23,4 +23,5 @@ def hello2():
     print("last test for this PR")
     print("real last")
     print("las pang")
+    print("lalalalalalalst")
 hello2()
