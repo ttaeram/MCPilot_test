@@ -28,5 +28,8 @@ def hello_func():
 
     for i in range(10):
         hello()
+
+    if True:
+        hello()
     
 hello_func()
