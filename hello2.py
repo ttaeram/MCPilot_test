@@ -24,4 +24,7 @@ def hello2():
     print("real last")
     print("las pang")
     print("lalalalalalalst")
+    
+    for i in range(10):
+        i = i
 hello2()
