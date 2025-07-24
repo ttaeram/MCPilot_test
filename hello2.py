@@ -20,4 +20,5 @@ def hello2():
     print("commit action")
     print("Almost done!")
     print("Why doesn't work")
+    print("last test for this PR")
 hello2()
