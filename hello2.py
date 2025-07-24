@@ -21,4 +21,5 @@ def hello2():
     print("Almost done!")
     print("Why doesn't work")
     print("last test for this PR")
+    print("real last")
 hello2()
