@@ -25,5 +25,8 @@ def hello_func():
             flag = 1
     hello()
     hello()
+
+    for i in range(10):
+        hello()
     
 hello_func()
