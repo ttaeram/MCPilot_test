@@ -22,4 +22,5 @@ def hello2():
     print("Why doesn't work")
     print("last test for this PR")
     print("real last")
+    print("las pang")
 hello2()
