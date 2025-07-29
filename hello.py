@@ -33,3 +33,11 @@ def hello_func():
         hello()
     
 hello_func()
+def func():
+    if hello_func():
+        print("well done!")
+    
+    else:
+        print("oops!")
+
+func()
